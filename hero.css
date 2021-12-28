@@ -6,7 +6,7 @@ body{
 }
 
 header{
-	background-color: #2F4F4F;
+	background-color: #292929;
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
@@ -15,8 +15,11 @@ header{
 h1, h2{
 	font-family: 'Teko', sans-serif;
 }
+
+/* header styles */
+
 header h1{
-	color: #900C3F;
+	color: white;
 	font-size: 60px;
 
 	
@@ -41,7 +44,7 @@ main img{
 
 h2{
 	font-size: 45px;
-	color: #2F4F4F;
+	color: #900c3f;
 	margin: 40px 0 10px;
 }
 
@@ -54,7 +57,7 @@ a:hover{
 }
 
 footer{
-	background-color: #2F4F4F;
+	background-color: #292929;
 	text-align: center;
 	color: white;
 	padding: 50px;
